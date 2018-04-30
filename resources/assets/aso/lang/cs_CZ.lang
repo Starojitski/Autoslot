@@ -1,0 +1,183 @@
+aso.load=Načíst
+aso.save=Uložit
+
+aso.enchant=Očarování
+aso.enchant.level=Úroveň
+aso.enchant.locked=Uzamčeno
+aso.enchant.unlocked=Odemčeno
+
+aso.inventory.options=Volby
+aso.inventory.prev=Předchozí
+aso.inventory.next=Další
+aso.inventory.item_subsets=Podskupiny předmětů
+aso.inventory.delete.inv=SMAŽE VŠECHNY PŘEDMĚTY z obrazovky inventáře
+aso.inventory.delete.one=Smaže %s
+aso.inventory.delete.all=Smaže VŠECHNY %s
+aso.inventory.delete.enable=Zapne mazací mód
+aso.inventory.delete.1=Zapnout mazací mód
+aso.inventory.delete.0=Vypnout mazací mód
+aso.inventory.rain.enable=Zapne déšt
+aso.inventory.rain.1=Zapnout déšť
+aso.inventory.rain.0=Vypnout déšť
+aso.inventory.magnet.enable=Zapne mód magnetu
+aso.inventory.magnet.1=Zapnout mód magnetu
+aso.inventory.magnet.0=Vypnout mód magnetu
+aso.inventory.dawn.enable=Nastaví svítání
+aso.inventory.dawn.set=Nastavit čas na svítání
+aso.inventory.noon.enable=Nastaví poledne
+aso.inventory.noon.set=Nastavit čas na poledne
+aso.inventory.dusk.enable=Nastaví soumrak
+aso.inventory.dusk.set=Nastavit čas na soumrak
+aso.inventory.midnight.enable=Nastaví půlnoc
+aso.inventory.midnight.set=Nastavit čas na půlnoc
+aso.inventory.heal=Uzdraví hráče
+aso.inventory.gamemode.0=Nastavit herní režim na přežití
+aso.inventory.gamemode.1=Nastavit herní režim na kreativní
+aso.inventory.gamemode.2=Nastavit herní režim na kreativní+
+aso.inventory.gamemode.3=Nastavit herní režim na adventuru
+
+aso.chat.gamemode.0=Nyní hraješ režim přežití
+aso.chat.gamemode.1=Nyní hraješ kreativní režim
+aso.chat.gamemode.2=Nyní hraješ kreativní+ režim
+aso.chat.gamemode.3=Nyní hraješ režim adventury
+aso.chat.rain.on=Déšť zapnut
+aso.chat.rain.off=Déšť vypnut
+aso.chat.time=Den %d. %d:00
+aso.chat.give.noitem=Nemáš žádný takový předmět.
+
+aso.options=ASO volby
+aso.options.back=Zpět
+aso.options.world=Svět
+aso.options.global=Globální
+aso.options.global.tip.0=Nastavení se aplikuje pro všechny světy
+aso.options.global.tip.1=Klikni na W vedle :option pro povolení :override pro tento svět
+aso.options.wbutton.tip.0=Používám globální nastavení
+aso.options.wbutton.tip.1=Přepisuji globální nastavení
+
+aso.options.keys=Nastavení kláves
+aso.options.keys.gui=Inventář
+aso.options.keys.gui.recipe=Recept
+aso.options.keys.gui.usage=Použití
+aso.options.keys.gui.enchant=Očarování
+aso.options.keys.gui.potion=Lektvary
+aso.options.keys.gui.back=Předchozí recept
+aso.options.keys.gui.prev=Předchozí stránka
+aso.options.keys.gui.next=Další stránka
+aso.options.keys.gui.hide=Přepnout viditelnost ASO
+aso.options.keys.gui.search=Zaměřit vyhledávací pole
+aso.options.keys.world=Svět
+aso.options.keys.world.chunkoverlay=Ohraničení chunku
+aso.options.keys.world.moboverlay=Označení míst spawnu monster
+aso.options.keys.world.highlight_tips=Informace o bloku
+aso.options.keys.world.dawn=Svítání
+aso.options.keys.world.noon=Poledne
+aso.options.keys.world.dusk=Soumrak
+aso.options.keys.world.midnight=Půlnoc
+aso.options.keys.world.rain=Déšť
+aso.options.keys.world.heal=Uzdravení
+aso.options.keys.world.creative=Herní reřim
+aso.options.keys.world.creative.tip=Střídat herní režim
+
+aso.options.inventory=Inventář
+aso.options.inventory.widgetsenabled.true=ASO povoleno
+aso.options.inventory.widgetsenabled.false=ASO zakázáno
+aso.options.inventory.cheatmode.0=Mód receptů
+aso.options.inventory.cheatmode.1=Užitný mód
+aso.options.inventory.cheatmode.2=Cheatovací mód
+aso.options.inventory.layoutstyle=Styl vzhledu
+aso.options.inventory.profileRecipes=Profilové recepty
+aso.options.inventory.profileRecipes.true=Povoleny
+aso.options.inventory.profileRecipes.false=Nepovoleny
+aso.options.inventory.itemsort=Řazení panelu předmětů
+aso.options.inventory.itemIDs=IDčka předmětů
+aso.options.inventory.itemIDs.0=Skryté
+aso.options.inventory.itemIDs.1=Automatické
+aso.options.inventory.itemIDs.2=Zobrazené
+aso.options.inventory.searchmode=Vyhledavací mód
+aso.options.inventory.searchmode.0=Prostý
+aso.options.inventory.searchmode.1=Rozšířený
+aso.options.inventory.searchmode.2=Regexy
+aso.options.inventory.utilities=Nástroje
+aso.options.inventory.utilities.tip=Vyber doplňky pro mód nástrojů
+aso.options.inventory.utilities.time=Čas
+aso.options.inventory.utilities.rain=Déšť
+aso.options.inventory.utilities.heal=Uzdravení
+aso.options.inventory.utilities.delete=Smazat
+aso.options.inventory.utilities.magnet=Magnet
+aso.options.inventory.utilities.gamemode=Herní režim
+aso.options.inventory.utilities.enchant=Očarování
+aso.options.inventory.utilities.potion=Lektvary
+aso.options.inventory.utilities.item=Předměty
+aso.options.inventory.gamemodes=Herní režimy
+aso.options.inventory.gamemodes.tip=Vyber herní režimy pro střídání
+aso.options.inventory.gamemodes.creative=Kreativní
+aso.options.inventory.gamemodes.creative+=Kreativní+
+aso.options.inventory.gamemodes.adventure=Adventura
+
+aso.options.command=Příkazy
+aso.options.command.creative=Herní režim
+aso.options.command.creative.tip={0} = 1 pro kreativní, 0 pro přeživší, {1} = hráč
+aso.options.command.item=Předmět
+aso.options.command.item.tip={0} = hráč, {1} = id, {2} = množství, {3} = poškození, {4} = nbt, {5} = jméno
+aso.options.command.time=Čas
+aso.options.command.time.tip={0} = světový čas
+aso.options.command.rain=Déšť
+aso.options.command.rain.tip={0} = 1 pro zapnutí, 0 pro vypnutí
+aso.options.command.heal=Uzdravení
+aso.options.command.heal.tip={0} = hráč
+
+aso.options.world.highlight_tips=Informace o bloku
+aso.options.world.highlight_tips.hide=Skryté
+aso.options.world.highlight_tips.show=Zobrazené
+
+aso.options.tools=Nástroje
+aso.options.tools.dump=Výpisy dat
+aso.options.tools.dump.dump=Výpis
+aso.options.tools.dump.dumped=%s IDčka vypsány do %s
+aso.options.tools.dump.mode.0=Využito
+aso.options.tools.dump.mode.1=Volné
+aso.options.tools.dump.mode.2=Vše
+aso.options.tools.dump.item=Předmět
+aso.options.tools.dump.items=Předměty
+aso.options.tools.dump.block=Blok
+aso.options.tools.dump.blocks=Bloky
+aso.options.tools.dump.potion=Lektvar
+aso.options.tools.dump.potions=Lektvary
+aso.options.tools.dump.enchantment=Očarování
+aso.options.tools.dump.enchantments=Očarování
+aso.options.tools.dump.biome=Biom
+aso.options.tools.dump.biomes=Biomy
+aso.options.tools.dump.itempanel=Panel předmětů
+aso.options.tools.dump.itempanel.dumped=Obsahy panelu předmětů byli vypsány do %s
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=Staré TMI
+
+aso.recipe.page=Strana %s/%s
+aso.recipe.shaped=Výhodná výroba
+aso.recipe.shapeless=Nevýhodná výroba
+aso.recipe.furnace=Pečení
+aso.recipe.fuel=Palivo
+aso.recipe.fuel.required=%s potřebné
+aso.recipe.fuel.processed=%s zpracované
+aso.recipe.fuel.produced=%s vyprodukované
+aso.recipe.firework=Ohňostroje
+aso.recipe.firework.tooltip0=Obarvení přidávají barvy do ohňostrojů
+aso.recipe.firework.tooltip1=Přebarvení způsobuje vyblednutí barev v ohňostrojích
+aso.recipe.firework.tooltip2=Několik ohňostrojů může být vypáleno z rakety
+aso.recipe.brewing=Vaření
+aso.recipe.profiler.crafting=Profilování výroby
+aso.recipe.profiler.usage=Využití profilování
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Řadí prvně předměty z vanilla minecraftu
+aso.itemsort.mod=Mód
+aso.itemsort.mod.tip=Seskupuje předměty ze stejného módu, řazeno podle jména
+aso.itemsort.id=ID předmětu
+aso.itemsort.default=Výchozí
+aso.itemsort.default.tip=Zanechá přirodní řazení každého nezměněného předmětu
+aso.itemsort.damage=Poškození předmětu
+aso.itemsort.name=Zobrazené jméno

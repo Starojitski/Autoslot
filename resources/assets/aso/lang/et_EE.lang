@@ -1,0 +1,186 @@
+﻿# Estonian language file
+# Created by tambry
+
+aso.load=Lae
+aso.save=Salvesta
+
+aso.enchant=Enchant
+aso.enchant.level=Level
+aso.enchant.locked=Lukustatud
+aso.enchant.unlocked=Lukustamata
+
+aso.inventory.options=Valikud
+aso.inventory.prev=Eelmine
+aso.inventory.next=Järgmine
+aso.inventory.item_subsets=Item SubSets
+aso.inventory.delete.inv=KUSTUTA KÕIK ASJAD hetke seljakoti aknast
+aso.inventory.delete.one=Kustuta %s
+aso.inventory.delete.all=Kustuta KÕIK %s
+aso.inventory.delete.enable=Lülita kustutamis moodi
+aso.inventory.delete.1=Lülita kustutamis mood välja
+aso.inventory.delete.0=Lülita kustutamis mood sisse
+aso.inventory.rain.enable=Luba vihm
+aso.inventory.rain.1=Lülita vihm välja
+aso.inventory.rain.0=Lülita vihm sisse
+aso.inventory.magnet.enable=Lülita magneti moodi
+aso.inventory.magnet.1=Lülita magneti mood sisse
+aso.inventory.magnet.0=Lülita magneti mood välja
+aso.inventory.dawn.enable=Lülita hommik-keskpäev
+aso.inventory.dawn.set=Pane aeg hommikuks
+aso.inventory.noon.enable=Lülita keskpäev-õhtu
+aso.inventory.noon.set=Pane aeg keskpäevaks
+aso.inventory.dusk.enable=Lülita õhtu-ööpäev
+aso.inventory.dusk.set=Pane aeg õhtuks
+aso.inventory.midnight.enable=Lülita ööpäev-hommik
+aso.inventory.midnight.set=Pane aeg ööpäevaks
+aso.inventory.heal=Ravi mängijat
+aso.inventory.gamemode.0=Pane mängumood ellujäämiseks
+aso.inventory.gamemode.1=Pane mängumood loovaks
+aso.inventory.gamemode.2=Pane mängumood loovaks+
+aso.inventory.gamemode.3=Pane mängumood seikluseks
+
+aso.chat.gamemode.0=Sa mängid nüüd ellujäämises
+aso.chat.gamemode.1=Sa mängid nüüd loovas
+aso.chat.gamemode.2=Sa mängid nüüd loovas+
+aso.chat.gamemode.3=Sa mängid nüüd seikluses
+aso.chat.rain.on=Vihm sisse lülitatud
+aso.chat.rain.off=Vihm välja lülitatud
+aso.chat.time=Päev %d. %d:00
+aso.chat.give.noitem=Pole sellist asja olemas.
+
+aso.options=ASO Valikud
+aso.options.back=Tagasi
+aso.options.world=Maailm
+aso.options.global=Globaalne
+aso.options.global.tip.0=Valikud mõjutavad kõiki maailmi
+aso.options.global.tip.1=Vajuta W kõrval:valiku, et ületeh:ületeha see maailm
+aso.options.wbutton.tip.0=Kasutab globaalseid seadeid
+aso.options.wbutton.tip.1=Globaalsete seadmete ületegemine
+
+aso.options.keys=Klahviseosed
+aso.options.keys.gui=Seljakott
+aso.options.keys.gui.recipe=Retsept
+aso.options.keys.gui.usage=Kasutus
+aso.options.keys.gui.enchant=Loitsud
+aso.options.keys.gui.potion=Joogid
+aso.options.keys.gui.back=Eel. Retsept
+aso.options.keys.gui.prev=Eel. Leht
+aso.options.keys.gui.next=Järg. Leht
+aso.options.keys.gui.hide=Lülita ASO nähtavust
+aso.options.keys.gui.search=Fokuseeri otsingu riba
+aso.options.keys.world=Maailm
+aso.options.keys.world.chunkoverlay=Chunk'i ääre ülekate
+aso.options.keys.world.moboverlay=Koletiste sündimis ülekate
+aso.options.keys.world.highlight_tips=Highlight Tooltips
+aso.options.keys.world.dawn=Hommik
+aso.options.keys.world.noon=Keskpäev
+aso.options.keys.world.dusk=Õhtu
+aso.options.keys.world.midnight=Kesköö
+aso.options.keys.world.rain=Vihm
+aso.options.keys.world.heal=Ravi
+aso.options.keys.world.creative=Mängumööd
+aso.options.keys.world.creative.tip=Tsükli mängumoodi
+
+aso.options.inventory=Seljakott
+aso.options.inventory.widgetsenabled.true=ASO lubatud
+aso.options.inventory.widgetsenabled.false=ASO keelatud
+aso.options.inventory.cheatmode.0=Retsepti mood
+aso.options.inventory.cheatmode.1=Utiliidi mood
+aso.options.inventory.cheatmode.2=Petmis mood
+aso.options.inventory.layoutstyle=Layout Style
+aso.options.inventory.profileRecipes=Profileeri retsepte
+aso.options.inventory.profileRecipes.true=Tõene
+aso.options.inventory.profileRecipes.false=Väär
+aso.options.inventory.itemsort=Item Panel Sorting
+aso.options.inventory.itemIDs=Asja ID-d
+aso.options.inventory.itemIDs.0=Peidetud
+aso.options.inventory.itemIDs.1=Auto
+aso.options.inventory.itemIDs.2=Näidatud
+aso.options.inventory.searchmode=Otsimis mood
+aso.options.inventory.searchmode.0=Plain
+aso.options.inventory.searchmode.1=Extended
+aso.options.inventory.searchmode.2=Regex
+aso.options.inventory.utilities=Utiliidid
+aso.options.inventory.utilities.tip=Vali funktsioonid utiliidi moodi jaoks
+aso.options.inventory.utilities.time=Aeg
+aso.options.inventory.utilities.rain=Vihm
+aso.options.inventory.utilities.heal=Ravi
+aso.options.inventory.utilities.delete=Kustuta
+aso.options.inventory.utilities.magnet=Magnet
+aso.options.inventory.utilities.gamemode=Gamemode
+aso.options.inventory.utilities.enchant=Enchanting
+aso.options.inventory.utilities.potion=Joogid
+aso.options.inventory.utilities.item=Asja
+aso.options.inventory.gamemodes=Mängumoodid
+aso.options.inventory.gamemodes.tip=Vali mängumoodid millest läbi tsüklida
+aso.options.inventory.gamemodes.creative=Loov
+aso.options.inventory.gamemodes.creative+=Loov+
+aso.options.inventory.gamemodes.adventure=Seiklus
+
+aso.options.command=Käsud
+aso.options.command.creative=Mängumood
+aso.options.command.creative.tip={0} = 1 loova jaoks, 0 ellujäämis jaoks, {1} = mängija
+aso.options.command.item=Item
+aso.options.command.item.tip={0} = mängija, {1} = id, {2} = kogus, {3} = kahju, {4} = nbt, {5} = nimi
+aso.options.command.time=Time
+aso.options.command.time.tip={0} = maailmaaeg
+aso.options.command.rain=Rain
+aso.options.command.rain.tip={0} = 1 sisse jaoks, 0 välja jaoks
+aso.options.command.heal=Heal
+aso.options.command.heal.tip={0} = mängija
+
+aso.options.world.highlight_tips=Tõsta esile vihjed
+aso.options.world.highlight_tips.hide=Peidetud
+aso.options.world.highlight_tips.show=Näidatud
+
+aso.options.tools=Töövahendid
+aso.options.tools.dump=Data Dumps
+aso.options.tools.dump.dump=Dump
+aso.options.tools.dump.dumped=%s IDs dumped to %s
+aso.options.tools.dump.mode.0=Kasutatud
+aso.options.tools.dump.mode.1=Vaba
+aso.options.tools.dump.mode.2=Kõik
+aso.options.tools.dump.item=Asi
+aso.options.tools.dump.items=Asjad
+aso.options.tools.dump.block=Blokk
+aso.options.tools.dump.blocks=Blokkid
+aso.options.tools.dump.potion=Jook
+aso.options.tools.dump.potions=Joogid
+aso.options.tools.dump.enchantment=Enchantment
+aso.options.tools.dump.enchantments=Enchantments
+aso.options.tools.dump.biome=Biome
+aso.options.tools.dump.biomes=Biomes
+aso.options.tools.dump.itempanel=Item Panel
+aso.options.tools.dump.itempanel.dumped=Item Panel contents were dumped to %s
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=Vana TMI
+
+aso.recipe.page=Leht %s/%s
+aso.recipe.shaped=Kujuga Valmistamine
+aso.recipe.shapeless=Kujutu Valmistamine
+aso.recipe.furnace=Sulatamine
+aso.recipe.fuel=Kütus
+aso.recipe.fuel.required=%s vajatud
+aso.recipe.fuel.processed=%s protsessitud
+aso.recipe.fuel.produced=%s valmistatud
+aso.recipe.firework=Ilutulestik
+aso.recipe.firework.tooltip0=Dyes add colours to the charges
+aso.recipe.firework.tooltip1=Recolouring adds fade colours to the charge
+aso.recipe.firework.tooltip2=Multiple charges can be spawned from one rocket
+aso.recipe.brewing=Keetmine
+aso.recipe.profiler.crafting=Crafting Profiling
+aso.recipe.profiler.usage=Usage Profiling
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Sorts items from vanilla minecraft first
+aso.itemsort.mod=Mod
+aso.itemsort.mod.tip=Groups items in the same mod, sorted by mod name
+aso.itemsort.id=Item ID
+aso.itemsort.default=Vaikimisi
+aso.itemsort.default.tip=Leave the natural ordering of each item unchanged
+aso.itemsort.damage=Item Damage
+aso.itemsort.name=Display Name

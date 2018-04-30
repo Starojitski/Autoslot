@@ -1,0 +1,186 @@
+aso.load=Cargar
+aso.save=Guardar
+
+aso.enchant=Encantamiento
+aso.enchant.level=Nivel
+aso.enchant.locked=Bloqueado
+aso.enchant.unlocked=Desbloqueado
+
+aso.inventory.options=Opciones
+aso.inventory.prev=Prev.
+aso.inventory.next=Sig.
+aso.inventory.item_subsets=Subconjuntos de objetos
+aso.inventory.delete.inv=BORRAR TODA la pantalla de inventario actual
+aso.inventory.delete.one=Borrar %s
+aso.inventory.delete.all=Borrar TODO %s
+aso.inventory.delete.enable=Habilitar modo de borrado
+aso.inventory.delete.1=Activar modo de borrado
+aso.inventory.delete.0=Desactivar modo de borrado
+aso.inventory.rain.enable=Habilitar lluvia
+aso.inventory.rain.1=Activar lluvia
+aso.inventory.rain.0=Desactivar lluvia
+aso.inventory.magnet.enable=Habilitar modo imán
+aso.inventory.magnet.1=Activar modo imán
+aso.inventory.magnet.0=Desactivar modo imán
+aso.inventory.dawn.enable=Habilitar alba-mediodía
+aso.inventory.dawn.set=Establecer hora al alba
+aso.inventory.noon.enable=Habilitar mediodia-atardecer
+aso.inventory.noon.set=Establecer hora a mediodía
+aso.inventory.dusk.enable=Habilitar atardecer-medianoche
+aso.inventory.dusk.set=Establecer hora al atardecer
+aso.inventory.midnight.enable=Habilitar medianoche-alba
+aso.inventory.midnight.set=Establecer hora a medianoche
+aso.inventory.heal=Curar al jugador
+aso.inventory.gamemode.0=Establecer modo de juego a Supervivencia
+aso.inventory.gamemode.1=Establecer modo de juego a Creativo
+aso.inventory.gamemode.2=Establecer modo de juego a Creativo+
+aso.inventory.gamemode.3=Establecer modo de juevo a Aventura
+
+aso.chat.gamemode.0=Ahora estás jugando en Supervivencia
+aso.chat.gamemode.1=Ahora estás jugando en Creativo
+aso.chat.gamemode.2=Ahora estás jugando en Creativo+
+aso.chat.gamemode.3=Ahora estás jugando en Aventura
+aso.chat.rain.on=Lluvia activada
+aso.chat.rain.off=Lluvia desactivada
+aso.chat.time=Día %d. %d:00
+aso.chat.give.noitem=De ningún modo ese objeto.
+
+aso.options=Opciones ASO
+aso.options.back=Atrás
+aso.options.world=Mundo
+aso.options.global=Global
+aso.options.global.tip.0=Las opciones se aplican a todos los mundos
+aso.options.global.tip.1=Haz clic en W junto a una:opción para habilitar una:reconfiguración en este mundo
+aso.options.wbutton.tip.0=Usas los ajustes globales
+aso.options.wbutton.tip.1=Estableciendo ajustes globales
+
+aso.options.keys=Atajos de teclado
+aso.options.keys.gui=Inventario
+aso.options.keys.gui.recipe=Receta
+aso.options.keys.gui.usage=Uso
+aso.options.keys.gui.enchant=Encantamientos
+aso.options.keys.gui.potion=Pociones
+aso.options.keys.gui.back=Receta Prev.
+aso.options.keys.gui.prev=Pág. Prev.
+aso.options.keys.gui.next=Pág. Sig.
+aso.options.keys.gui.hide=Alternar Visibilidad del ASO
+aso.options.keys.gui.search=Priorizar barra de búsqueda
+aso.options.keys.world=Mundo
+aso.options.keys.world.chunkoverlay=Límite de chunks transparente
+aso.options.keys.world.moboverlay=Generación de monstruos transparente
+aso.options.keys.world.highlight_tips=Resaltar Nombre de Bloque
+aso.options.keys.world.dawn=Alba
+aso.options.keys.world.noon=Mediodía
+aso.options.keys.world.dusk=Atardecer
+aso.options.keys.world.midnight=Medianoche
+aso.options.keys.world.rain=Lluvia
+aso.options.keys.world.heal=Curar
+aso.options.keys.world.creative=Modo de Juego
+aso.options.keys.world.creative.tip=Cambiar modo de juego cíclicamente
+
+aso.options.inventory=Inventario
+aso.options.inventory.widgetsenabled.true=ASO Habilitado
+aso.options.inventory.widgetsenabled.false=ASO Deshabilitado
+aso.options.inventory.cheatmode.0=Modo Receta
+aso.options.inventory.cheatmode.1=Modo Utilidad
+aso.options.inventory.cheatmode.2=Modo con Trucos
+aso.options.inventory.layoutstyle=Estilo de Gráficos
+aso.options.inventory.profileRecipes=Recetas del Perfil
+aso.options.inventory.profileRecipes.true=Verdadero
+aso.options.inventory.profileRecipes.false=Falso
+aso.options.inventory.itemsort=Ordenamiento de los paneles de objetos
+aso.options.inventory.itemIDs=IDs de Objetos
+aso.options.inventory.itemIDs.0=Oculto
+aso.options.inventory.itemIDs.1=Auto
+aso.options.inventory.itemIDs.2=Visible
+aso.options.inventory.searchmode=Modo Buscar
+aso.options.inventory.searchmode.0=Plano
+aso.options.inventory.searchmode.1=Extendido
+aso.options.inventory.searchmode.2=Regex
+aso.options.inventory.utilities=Utilidades
+aso.options.inventory.utilities.tip=Selecciona las características para el Modo Utilidad
+aso.options.inventory.utilities.time=Hora
+aso.options.inventory.utilities.rain=Lluvia
+aso.options.inventory.utilities.heal=Curar
+aso.options.inventory.utilities.delete=Eliminar
+aso.options.inventory.utilities.magnet=Imán
+aso.options.inventory.utilities.gamemode=Modo de Juego
+aso.options.inventory.utilities.enchant=Encantamientos
+aso.options.inventory.utilities.potion=Pociones
+aso.options.inventory.utilities.item=Objetos
+aso.options.inventory.gamemodes=Modos de Juego
+aso.options.inventory.gamemodes.tip=Selecciona los modos de juego entre los que quieras alternar
+aso.options.inventory.gamemodes.creative=Creativo
+aso.options.inventory.gamemodes.creative+=Creativo+
+aso.options.inventory.gamemodes.adventure=Aventura
+
+aso.options.command=Comandos
+aso.options.command.creative=Modo de Juego
+aso.options.command.creative.tip={0} = 1 para creativo, 0 para supervivencia, {1} = jugador
+aso.options.command.item=Objeto
+aso.options.command.item.tip={0} = jugador, {1} = nombre, {2} = cantidad, {3} = durabilidad, {4} = nbt, {5} = id
+aso.options.command.time=Hora
+aso.options.command.time.tip={0} = Tiempo del mundo
+aso.options.command.rain=Lluvia
+aso.options.command.rain.tip={0} = 1 para activar, 0 para desactivar
+aso.options.command.heal=Curar
+aso.options.command.heal.tip={0} = jugador
+
+aso.options.world.highlight_tips=Resaltar Nombre de Bloque
+aso.options.world.highlight_tips.hide=Oculto
+aso.options.world.highlight_tips.show=Visible
+
+aso.options.tools=Herramientas
+aso.options.tools.dump=Volcados de datos
+aso.options.tools.dump.dump=Volcado
+aso.options.tools.dump.dumped=%s IDs volcadas a %s
+aso.options.tools.dump.mode.0=Usados
+aso.options.tools.dump.mode.1=Libres
+aso.options.tools.dump.mode.2=Todos
+aso.options.tools.dump.item=Objeto
+aso.options.tools.dump.items=Objetos
+aso.options.tools.dump.block=Bloque
+aso.options.tools.dump.blocks=Bloques
+aso.options.tools.dump.potion=Poción
+aso.options.tools.dump.potions=Pociones
+aso.options.tools.dump.enchantment=Encantamiento
+aso.options.tools.dump.enchantments=Encantamientos
+aso.options.tools.dump.biome=Bioma
+aso.options.tools.dump.biomes=Biomas
+aso.options.tools.dump.itempanel=Panel de Objetos
+aso.options.tools.dump.itempanel.dumped=El contenido del Panel de Objetos se ha volcado a %s
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+aso.options.tools.dump.itempanel.mode.3=PNG
+aso.options.tools.dump.itempanel.icon.dumped=Los iconos del Panel de Objetos se ha volcado a %s
+aso.options.tools.dump.itempanel.icon.cancelled=Volcado cancelado
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=TMI Antiguo
+
+aso.recipe.page=Pág. %s/%s
+aso.recipe.shaped=Fabricación con forma
+aso.recipe.shapeless=Fabricación sin forma
+aso.recipe.furnace=Fundición
+aso.recipe.fuel=Combustible
+aso.recipe.fuel.required=%s requeridos
+aso.recipe.fuel.processed=%s procesados
+aso.recipe.fuel.produced=%s producidos
+aso.recipe.firework=Fuegos Artificiales
+aso.recipe.firework.tooltip0=Los tintes añaden colores a las cargas
+aso.recipe.firework.tooltip1=Recolorear añade colores difuminados a la carga
+aso.recipe.firework.tooltip2=se pueden generar múltiples cargas para un cohete
+aso.recipe.brewing=Destilación
+aso.recipe.profiler.crafting=Evaluación de Fabricación
+aso.recipe.profiler.usage=Uso de Evaluación
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Ordena los objetos del Minecraft estándar primero
+aso.itemsort.mod=Mod
+aso.itemsort.mod.tip=Agrupa los objetos del mismo mod y los ordena por nombre del mod
+aso.itemsort.id=ID de Objetos
+aso.itemsort.default=Por defecto
+aso.itemsort.default.tip=Mantiene la ordenación natural de cada objeto sin cambios
+aso.itemsort.damage=Durabilidad del Objeto
+aso.itemsort.name=Nombre Mostrado

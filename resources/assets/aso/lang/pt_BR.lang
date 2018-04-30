@@ -1,0 +1,183 @@
+aso.load=Carregar
+aso.save=Salvar
+
+aso.enchant=Encantar
+aso.enchant.level=Nível
+aso.enchant.locked=Bloqueado
+aso.enchant.unlocked=Desbloqueado
+
+aso.inventory.options=Opções
+aso.inventory.prev=Ant.
+aso.inventory.next=Próx.
+aso.inventory.item_subsets=Subgrupos de Itens
+aso.inventory.delete.inv=DELETAR TODOS OS ITENS da tela de inventário atual
+aso.inventory.delete.one=Deletar %s
+aso.inventory.delete.all=Deletar TODOS %s
+aso.inventory.delete.enable=Ativar modo de deleção
+aso.inventory.delete.1=Deixar o modo de deleção ativado
+aso.inventory.delete.0=Deixar o modo de deleção desativado
+aso.inventory.rain.enable=Ativar chuva
+aso.inventory.rain.1=Deixar a chuva ativada
+aso.inventory.rain.0=Deixar a chuva desativada
+aso.inventory.magnet.enable=Ativar modo ímã
+aso.inventory.magnet.1=Deixar o modo ímã ativado
+aso.inventory.magnet.0=Deixar o modo ímã desativado
+aso.inventory.dawn.enable=Ativar amanhecer/meio-dia
+aso.inventory.dawn.set=Definir hora para amanhecer
+aso.inventory.noon.enable=Ativar meio-dia/anoitecer
+aso.inventory.noon.set=Definir hora para meio-dia
+aso.inventory.dusk.enable=Ativar anoitecer/meia-noite
+aso.inventory.dusk.set=Definir hora para anoitecer
+aso.inventory.midnight.enable=Ativar meia-noite/amanhecer
+aso.inventory.midnight.set=Definir hora para meia-noite
+aso.inventory.heal=Curar o jogador
+aso.inventory.gamemode.0=Definir modo de jogo para sobrevivência
+aso.inventory.gamemode.1=Definir modo de jogo para criativo
+aso.inventory.gamemode.2=Definir modo de jogo para criativo+
+aso.inventory.gamemode.3=Definir modo de jogo para aventura
+
+aso.chat.gamemode.0=Você está agora jogando em sobrevivência
+aso.chat.gamemode.1=Você está agora jogando em criativo
+aso.chat.gamemode.2=Você está agora jogando em criativo+
+aso.chat.gamemode.3=Você está agora jogando em aventura
+aso.chat.rain.on=Chuva ligada
+aso.chat.rain.off=Chuva desligada
+aso.chat.time=Dia %d. %d:00
+aso.chat.give.noitem=Nenhum item com esse nome.
+
+aso.options=Opções do ASO
+aso.options.back=Voltar
+aso.options.world=Mundo
+aso.options.global=Global
+aso.options.global.tip.0=Opções se aplicam a todos os mundos
+aso.options.global.tip.1=Clique no W do lado de uma:opção para permitir uma :ultrapassagem para esse mundo.
+aso.options.wbutton.tip.0=Usando configurações globais
+aso.options.wbutton.tip.1=Substituindo configurações globais
+
+aso.options.keys=Atalhos de Teclado
+aso.options.keys.gui=Inventário
+aso.options.keys.gui.recipe=Receita
+aso.options.keys.gui.usage=Uso
+aso.options.keys.gui.enchant=Encantamentos
+aso.options.keys.gui.potion=Poções
+aso.options.keys.gui.back=Receita Ant.
+aso.options.keys.gui.prev=Pág. Anterior
+aso.options.keys.gui.next=Próxima Pág.
+aso.options.keys.gui.hide=Trocar Visibilidade do ASO
+aso.options.keys.gui.search=Focar na Barra de Buscas
+aso.options.keys.world=Mundo
+aso.options.keys.world.chunkoverlay=Sobreposição de Fronteira de Chunks
+aso.options.keys.world.moboverlay=Sobreposição de Spawn de Mobs
+aso.options.keys.world.highlight_tips=Destacar Dicas
+aso.options.keys.world.dawn=Amanhecer
+aso.options.keys.world.noon=Meio-Dia
+aso.options.keys.world.dusk=Anoitecer
+aso.options.keys.world.midnight=Meia-Noite
+aso.options.keys.world.rain=Chuva
+aso.options.keys.world.heal=Curar
+aso.options.keys.world.creative=Modo de Jogo
+aso.options.keys.world.creative.tip=Alternar Modo de Jogo
+
+aso.options.inventory=Inventário
+aso.options.inventory.widgetsenabled.true=ASO Ativado
+aso.options.inventory.widgetsenabled.false=ASO Desativado
+aso.options.inventory.cheatmode.0=Modo Receitas
+aso.options.inventory.cheatmode.1=Modo Utilidade
+aso.options.inventory.cheatmode.2=Modo Trapaça
+aso.options.inventory.layoutstyle=Estilo de Layout
+aso.options.inventory.profileRecAtivaripes=Perfilar Receitas
+aso.options.inventory.profileRecipes.true=Verdadeiro
+aso.options.inventory.profileRecipes.false=Falso
+aso.options.inventory.itemsort=Ordenamento do Painel de Itens
+aso.options.inventory.itemIDs=IDs de Itens
+aso.options.inventory.itemIDs.0=Escondido
+aso.options.inventory.itemIDs.1=Auto
+aso.options.inventory.itemIDs.2=Mostrado
+aso.options.inventory.searchmode=Modo de Pesquisa
+aso.options.inventory.searchmode.0=Plano
+aso.options.inventory.searchmode.1=Extendido
+aso.options.inventory.searchmode.2=Regex
+aso.options.inventory.utilities=Utilidades
+aso.options.inventory.utilities.tip=Selecionar funções para o modo utilidade
+aso.options.inventory.utilities.time=Tempo
+aso.options.inventory.utilities.rain=Chuva
+aso.options.inventory.utilities.heal=Curar
+aso.options.inventory.utilities.delete=Deletar
+aso.options.inventory.utilities.magnet=Ímã
+aso.options.inventory.utilities.gamemode=Modo de Jogo
+aso.options.inventory.utilities.enchant=Encantamento
+aso.options.inventory.utilities.potion=Poções
+aso.options.inventory.utilities.item=Itens
+aso.options.inventory.gamemodes=Modos de Jogo
+aso.options.inventory.gamemodes.tip=Selecione os modos de jogo para alternar
+aso.options.inventory.gamemodes.creative=Criativo
+aso.options.inventory.gamemodes.creative+=Criativo+
+aso.options.inventory.gamemodes.adventure=Aventura
+
+aso.options.command=Comandos
+aso.options.command.creative=Modo de Jogo
+aso.options.command.creative.tip={0} = 1 para criativo, 0 para sobrevivência, {1} = jogador
+aso.options.command.item=Item
+aso.options.command.item.tip={0} = jogador, {1} = id, {2} = quantia, {3} = dano, {4} = nbt, {5} = nome
+aso.options.command.time=Tempo
+aso.options.command.time.tip={0} = tempo do mundo
+aso.options.command.rain=Chuva
+aso.options.command.rain.tip={0} = 1 para ligado, 0 para desligado
+aso.options.command.heal=Curar
+aso.options.command.heal.tip={0} = jogador
+
+aso.options.world.highlight_tips=Destacar Dicas
+aso.options.world.highlight_tips.hide=Escondidas
+aso.options.world.highlight_tips.show=Mostradas
+
+aso.options.tools=Ferramentas
+aso.options.tools.dump=Despejo de Dados
+aso.options.tools.dump.dump=Despejo
+aso.options.tools.dump.dumped=%s IDs despejadas para %s
+aso.options.tools.dump.mode.0=Usado
+aso.options.tools.dump.mode.1=Livre
+aso.options.tools.dump.mode.2=Todas
+aso.options.tools.dump.item=Item
+aso.options.tools.dump.items=Itens
+aso.options.tools.dump.block=Bloco
+aso.options.tools.dump.blocks=Blocos
+aso.options.tools.dump.potion=Poção
+aso.options.tools.dump.potions=Poções
+aso.options.tools.dump.enchantment=Encantamento
+aso.options.tools.dump.enchantments=Encantamentos
+aso.options.tools.dump.biome=Bioma
+aso.options.tools.dump.biomes=Biomas
+aso.options.tools.dump.itempanel=Painel de Itens
+aso.options.tools.dump.itempanel.dumped=O conteúdo do Painel de Itens foi despejado para %s
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=JSON
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=Velho TMI
+
+aso.recipe.page=Página %s/%s
+aso.recipe.shaped=Receita Exata
+aso.recipe.shapeless=Receita Sem Forma
+aso.recipe.furnace=Cozimento
+aso.recipe.fuel=Combustível
+aso.recipe.fuel.required=%s requerido
+aso.recipe.fuel.processed=%s processado
+aso.recipe.fuel.produced=%s produzido
+aso.recipe.firework=Fogos de artifício
+aso.recipe.firework.tooltip0=Corantes adicionam luzes às explosões
+aso.recipe.firework.tooltip1=Recolorimento adiciona gradiente de cores às explosões
+aso.recipe.firework.tooltip2=Múltiplas cargas podem ser colocadas em um foguete
+aso.recipe.brewing=Fermentação
+aso.recipe.profiler.crafting=Perfilamento de Elaboração
+aso.recipe.profiler.usage=Perfilamento do Uso
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Ordena itens vanilla primeiro
+aso.itemsort.mod=Mod
+aso.itemsort.mod.tip=Agrupa itens do mesmo mod, ordenados pelo nome no mod
+aso.itemsort.id=ID de Itens
+aso.itemsort.default=Padrão
+aso.itemsort.default.tip=Deixa a ordem natural de cada item não trocada
+aso.itemsort.damage=Dano do Item
+aso.itemsort.name=Mostrar Nome

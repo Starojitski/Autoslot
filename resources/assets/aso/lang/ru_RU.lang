@@ -1,0 +1,183 @@
+aso.load=Загрузить
+aso.save=Сохранить
+
+aso.enchant=Зачаровывание
+aso.enchant.level=Уровень
+aso.enchant.locked=Открытые
+aso.enchant.unlocked=Закрытые
+
+aso.inventory.options=Опции
+aso.inventory.prev=Предыдущая
+aso.inventory.next=Следующая
+aso.inventory.item_subsets=Подмножества предметов
+aso.inventory.delete.all=УДАЛИТЬ ВСЕ ПРЕДМЕТЫ из текущего инвентаря
+aso.inventory.delete.one=Удалить %s
+aso.inventory.delete.all=Удалить ВСЕ %s
+aso.inventory.delete.enable=Режим удаления
+aso.inventory.delete.1=Включить режим удаления
+aso.inventory.delete.0=Выключить режим удаления
+aso.inventory.rain.enable=Дождь
+aso.inventory.rain.1=Включить дождь
+aso.inventory.rain.0=Выключить дождь
+aso.inventory.magnet.enable=Режим магнита
+aso.inventory.magnet.1=Включить режим магнита
+aso.inventory.magnet.0=Выключить режим магнита
+aso.inventory.dawn.enable=Включить рассвет-полдень
+aso.inventory.dawn.set=Установить время на рассвет
+aso.inventory.noon.enable=Включить полдень-сумерки
+aso.inventory.noon.set=Установить время на полдень
+aso.inventory.dusk.enable=Включить сумерки-полночь
+aso.inventory.dusk.set=Установить время на сумерки
+aso.inventory.midnight.enable=Включить полночь-рассвет
+aso.inventory.midnight.set=Установить время на полночь
+aso.inventory.heal=Исцелить игрока
+aso.inventory.gamemode.0=Установить игровой режим на выживание
+aso.inventory.gamemode.1=Установить игровой режим на творческий
+aso.inventory.gamemode.2=Установить игровой режим на творческий+
+aso.inventory.gamemode.3=Установить игровой режим на приключение
+
+aso.chat.gamemode.0=Теперь Вы играете в режиме выживание
+aso.chat.gamemode.1=Теперь Вы играете в режиме творчество
+aso.chat.gamemode.2=Теперь Вы играете в режиме творчество+
+aso.chat.gamemode.3=Теперь Вы играете в режиме приключение
+aso.chat.rain.on=Дождь включён
+aso.chat.rain.off=Дождь выключен
+aso.chat.time=День %d. %d:00
+aso.chat.give.noitem=Нет такого предмета.
+
+aso.options=Опции ASO
+aso.options.back=Назад
+aso.options.world=Мировые
+aso.options.global=Глобальные
+aso.options.global.tip.0=Настройки применяются ко всем мирам
+aso.options.global.tip.1=Нажмите W рядом с:опцией, чтобы включить:перезапись для этого мира
+aso.options.wbutton.tip.0=Использование глобальных настроек
+aso.options.wbutton.tip.1=Перезапись глобальных настроек
+
+aso.options.keys=Назначения клавиш
+aso.options.keys.gui=Инвентарь
+aso.options.keys.gui.recipe=Рецепт
+aso.options.keys.gui.usage=Использование
+aso.options.keys.gui.enchant=Чары
+aso.options.keys.gui.potion=Зелья
+aso.options.keys.gui.back=Предыдущий рецепт
+aso.options.keys.gui.prev=Предыдущая страница
+aso.options.keys.gui.next=Следующая страница
+aso.options.keys.gui.hide=Переключить видимость ASO
+aso.options.keys.gui.search=Сфокусироваться на панели поиска
+aso.options.keys.world=Мир
+aso.options.keys.world.chunkoverlay=Наложение границ чанков
+aso.options.keys.world.moboverlay=Наложение появления мобов
+aso.options.keys.world.highlight_tips=Подсвечивать всплывающие подсказки
+aso.options.keys.world.dawn=Рассвет
+aso.options.keys.world.noon=Полдень
+aso.options.keys.world.dusk=Сумерки
+aso.options.keys.world.midnight=Полночь
+aso.options.keys.world.rain=Дождь
+aso.options.keys.world.heal=Исцеление
+aso.options.keys.world.creative=Игровой режим
+aso.options.keys.world.creative.tip=Круг игровых режимов
+
+aso.options.inventory=Инвентарь
+aso.options.inventory.widgetsenabled.true=ASO включён
+aso.options.inventory.widgetsenabled.false=ASO выключен
+aso.options.inventory.cheatmode.0=Режим рецептов
+aso.options.inventory.cheatmode.1=Режим полезностей
+aso.options.inventory.cheatmode.2=Чит-режим
+aso.options.inventory.layoutstyle=Стиль расположения
+aso.options.inventory.profileRecipes=Рецепты профиля
+aso.options.inventory.profileRecipes.true=Да
+aso.options.inventory.profileRecipes.false=Нет
+aso.options.inventory.itemsort=Панель сортировки предметов
+aso.options.inventory.itemIDs=ID предметов
+aso.options.inventory.itemIDs.0=Спрятаны
+aso.options.inventory.itemIDs.1=Авто
+aso.options.inventory.itemIDs.2=Показаны
+aso.options.inventory.searchmode=Режим поиска
+aso.options.inventory.searchmode.0=Обычный
+aso.options.inventory.searchmode.1=Расширенный
+aso.options.inventory.searchmode.2=Регулярный
+aso.options.inventory.utilities=Полезности
+aso.options.inventory.utilities.tip=Выберете особенности для режима полезностей
+aso.options.inventory.utilities.time=Время
+aso.options.inventory.utilities.rain=Дождь
+aso.options.inventory.utilities.heal=Исцеление
+aso.options.inventory.utilities.delete=Удаление
+aso.options.inventory.utilities.magnet=Магнит
+aso.options.inventory.utilities.gamemode=Игровой режим
+aso.options.inventory.utilities.enchant=Зачарование
+aso.options.inventory.utilities.potion=Зелья
+aso.options.inventory.utilities.item=Предметы
+aso.options.inventory.gamemodes=Игровые режимы
+aso.options.inventory.gamemodes.tip=Выберете игровые режимы для переключения между ними
+aso.options.inventory.gamemodes.creative=Творческий
+aso.options.inventory.gamemodes.creative+=Творческий+
+aso.options.inventory.gamemodes.adventure=Приключение
+
+aso.options.command=Команды
+aso.options.command.creative=Игровой режим
+aso.options.command.creative.tip={0} = 1 для творческого, 0 для выживания, {1} = игрок
+aso.options.command.item=Предмет
+aso.options.command.item.tip={0} = игрок, {1} = ID предмета, {2} = количество, {3} = itemDamage
+aso.options.command.time=Время
+aso.options.command.time.tip={0} = мировое время
+aso.options.command.rain=Дождь
+aso.options.command.rain.tip={0} = 1 для включения, 0 для выключения
+aso.options.command.heal=Исцеление
+aso.options.command.heal.tip={0} = игрок
+
+aso.options.world.highlight_tips=Всплывающие подсказки
+aso.options.world.highlight_tips.hide=Спрятаны
+aso.options.world.highlight_tips.show=Показаны
+
+aso.options.tools=Инструменты
+aso.options.tools.dump=Дампы памяти
+aso.options.tools.dump.dump=Дамп
+aso.options.tools.dump.dumped=ID %s сдампленны в %s
+aso.options.tools.dump.mode.0=Используемые
+aso.options.tools.dump.mode.1=Свободные
+aso.options.tools.dump.mode.2=Все
+aso.options.tools.dump.item=Предмет
+aso.options.tools.dump.items=Предметы
+aso.options.tools.dump.block=Блок
+aso.options.tools.dump.blocks=Блоки
+aso.options.tools.dump.potion=Зелье
+aso.options.tools.dump.potions=Зелья
+aso.options.tools.dump.enchantment=Зачарование
+aso.options.tools.dump.enchantments=Зачарования
+aso.options.tools.dump.biome=Биом
+aso.options.tools.dump.biomes=Биомы
+aso.options.tools.dump.itempanel=Предметная панель
+aso.options.tools.dump.itempanel.dumped=Содержание предметной панели сдампленно в %s
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=Старый TMI
+
+aso.recipe.page=Страница %s/%s
+aso.recipe.shaped=Форменное создание
+aso.recipe.shapeless=Бесформенное создание
+aso.recipe.furnace=Выплавка
+aso.recipe.fuel=Топливо
+aso.recipe.fuel.required=%s требуется
+aso.recipe.fuel.processed=%s обработано
+aso.recipe.fuel.produced=%s произведено
+aso.recipe.firework=Фейерверки
+aso.recipe.firework.tooltip0=Красители добавляют цвета на звёздочку
+aso.recipe.firework.tooltip1=Recolouring adds fade colours to the charge
+aso.recipe.firework.tooltip2=Multiple charges can be spawned from one rocket
+aso.recipe.brewing=Зельеварение
+aso.recipe.profiler.crafting=Профилирование создания
+aso.recipe.profiler.usage=Использование профилирования
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Сортирует предметы сначало из оригинального Minecraft
+aso.itemsort.mod=Мод
+aso.itemsort.mod.tip=Группирует предметы в один мод, на основе имени мода
+aso.itemsort.id=ID предмета
+aso.itemsort.default=По-умолчанию
+aso.itemsort.default.tip=Оставляет обычный порядок каждого предмета
+aso.itemsort.damage=Повреждение предмета
+aso.itemsort.name=Отображаемое имя

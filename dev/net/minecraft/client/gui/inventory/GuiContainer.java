@@ -1,6 +1,6 @@
 package net.minecraft.client.gui.inventory;
 
-import codechicken.nei.guihook.GuiContainerManager;
+import codechicken.aso.guihook.GuiContainerManager;
 
 import com.google.common.collect.Sets;
 import java.io.IOException;

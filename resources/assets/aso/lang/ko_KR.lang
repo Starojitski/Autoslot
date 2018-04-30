@@ -1,0 +1,183 @@
+aso.load=불러오기
+aso.save=저장
+
+aso.enchant=인첸트
+aso.enchant.level=레벨
+aso.enchant.locked=잠금
+aso.enchant.unlocked=잠금해제
+
+aso.inventory.options=옵션
+aso.inventory.prev=이전
+aso.inventory.next=다음
+aso.inventory.item_subsets=아이템 하위집합
+aso.inventory.delete.all=현재의 화면에 있는 모든 항목을 삭제
+aso.inventory.delete.one=%s 삭제
+aso.inventory.delete.all=%s 모두삭제
+aso.inventory.delete.enable=삭제모드 활성화
+aso.inventory.delete.1=삭제모드 켜짐
+aso.inventory.delete.0=삭제모드 꺼짐
+aso.inventory.rain.enable=비 활성화
+aso.inventory.rain.1=비가 옴
+aso.inventory.rain.0=비가 멈춤
+aso.inventory.magnet.enable=자석모드 활성화
+aso.inventory.magnet.1=자석모드 켜짐
+aso.inventory.magnet.0=자석모드 꺼짐
+aso.inventory.dawn.enable=여명 활성화
+aso.inventory.dawn.set=시간이 여명시간대로 바뀌었습니다
+aso.inventory.noon.enable=낮 활성화
+aso.inventory.noon.set=시간이 낮시간대로 바뀌었습니다
+aso.inventory.dusk.enable=저녁 활성화
+aso.inventory.dusk.set=시간이 저녁시간대로 바뀌었습니다
+aso.inventory.midnight.enable=밤 활성화
+aso.inventory.midnight.set=시간이 밤시간대로 바뀌었습니다
+aso.inventory.heal=플레이어의 채력과허기를 채워줍니다
+aso.inventory.gamemode.0=게임모드가 서바이벌로 변경됩니다
+aso.inventory.gamemode.1=게임모드가 크리에이티브모드로 변경됩니다
+aso.inventory.gamemode.2=게임모드가 크리에이티브+모드로 변경됩니다
+aso.inventory.gamemode.3=게임모드가 어드벤처로 변경됩니다
+
+aso.chat.gamemode.0=당신은 현재 서바이벌모드입니다.
+aso.chat.gamemode.1=당신은 현재 크리에이티브모드입니다.
+aso.chat.gamemode.2=당신은 현재 크리에이티브모드+입니다.
+aso.chat.gamemode.3=당신은 현재 어드벤쳐모드입니다.
+aso.chat.rain.on=비 on
+aso.chat.rain.off=비 off
+aso.chat.time=%d번째 날. %d시 정각
+aso.chat.give.noitem=아이템이 없습니다.
+
+aso.options=ASO 옵션
+aso.options.back=뒤로
+aso.options.world=세계
+aso.options.global=글로벌
+aso.options.global.tip.0= 모든세계의 ASO의 옵션을 적용합니다
+aso.options.global.tip.1= 월드의 설정을 재정의 하려면 w를 클릭
+aso.options.wbutton.tip.0=글로벌로 세팅
+aso.options.wbutton.tip.1=전역 설정
+
+aso.options.keys=키 바인딩
+aso.options.keys.gui=인벤토리
+aso.options.keys.gui.recipe=레시피
+aso.options.keys.gui.usage=사용법
+aso.options.keys.gui.aso.enchant=인첸트
+aso.options.keys.gui.potion=포션
+aso.options.keys.gui.back=이전 레시피
+aso.options.keys.gui.prev=이전 페이지
+aso.options.keys.gui.next=다음 페이지
+aso.options.keys.gui.hide=ASO 활성/비활성화
+aso.options.keys.gui.search=빠른 검색
+aso.options.keys.world=월드
+aso.options.keys.world.chunkoverlay=청크경계 확인
+aso.options.keys.world.moboverlay=몹스폰 확인
+aso.options.keys.world.highlight_tips=하이라이트 툴팁
+aso.options.keys.world.dawn=여명
+aso.options.keys.world.noon=낮
+aso.options.keys.world.dusk=저녁
+aso.options.keys.world.midnight=밤
+aso.options.keys.world.rain=비
+aso.options.keys.world.heal=회복
+aso.options.keys.world.creative=게임모드
+aso.options.keys.world.creative.tip=게임모드 주기
+
+aso.options.inventory=인벤토리
+aso.options.inventory.widgetsenabled.true=ASO 활성화
+aso.options.inventory.widgetsenabled.false=ASO 비활성화
+aso.options.inventory.cheatmode.0=레시피모드
+aso.options.inventory.cheatmode.1=유틸리티모드
+aso.options.inventory.cheatmode.2=치트모드
+aso.options.inventory.layoutstyle=레이아웃 스타일
+aso.options.inventory.profileRecipes=프로파일 레시피
+aso.options.inventory.profileRecipes.true=설정
+aso.options.inventory.profileRecipes.false=비설정
+aso.options.inventory.itemsort=아이템 정렬
+aso.options.inventory.itemIDs=아이템 ID
+aso.options.inventory.itemIDs.0= 숨기기
+aso.options.inventory.itemIDs.1=자동
+aso.options.inventory.itemIDs.2=보이기
+aso.options.inventory.searchmode=검색모드
+aso.options.inventory.searchmode.0=모두
+aso.options.inventory.searchmode.1=확장
+aso.options.inventory.searchmode.2=정규표현식
+aso.options.inventory.utilities=유틸리티
+aso.options.inventory.utilities.tip=유틸리티 모드기능을 선택
+aso.options.inventory.utilities.time=시간
+aso.options.inventory.utilities.rain=비
+aso.options.inventory.utilities.heal=회복
+aso.options.inventory.utilities.delete=삭제
+aso.options.inventory.utilities.magnet=자석
+aso.options.inventory.utilities.gamemode=게임모드
+aso.options.inventory.utilities.aso.enchant=인첸트
+aso.options.inventory.utilities.potion=포션
+aso.options.inventory.utilities.item=아이템
+aso.options.inventory.gamemodes=게임모드
+aso.options.inventory.gamemodes.tip=순환하려는 게임모드를 선택
+aso.options.inventory.gamemodes.creative=크리에이티브
+aso.options.inventory.gamemodes.creative+=크리에이티브+
+aso.options.inventory.gamemodes.adventure=어드벤처
+
+aso.options.command=커맨드
+aso.options.command.creative=게임모드
+aso.options.command.creative.tip={0} = 1는 크리에이티브, 0 는 서바이벌, {1} = 플레이어
+aso.options.command.item=아이템
+aso.options.command.item.tip={0} =플레이어, {1} = 아이템ID, {2} = 수량, {3} = 아이템 데미지
+aso.options.command.time=시간
+aso.options.command.time.tip={0} = 월드타임
+aso.options.command.rain=비
+aso.options.command.rain.tip={0} = 1 는 온, 0 는 오프
+aso.options.command.heal=회복
+aso.options.command.heal.tip={0} = 플레이어
+
+aso.options.world.highlight_tips=하이라이트 툴팁
+aso.options.world.highlight_tips.hide=숨기기
+aso.options.world.highlight_tips.show=보이기
+
+aso.options.tools=도구
+aso.options.tools.dump=데이터 덤프
+aso.options.tools.dump.dump=덤프
+aso.options.tools.dump.dumped=%s ID를 덤프했습니다 %s
+aso.options.tools.dump.mode.0=사용 공간
+aso.options.tools.dump.mode.1=잔여 공간
+aso.options.tools.dump.mode.2=모두
+aso.options.tools.dump.item=아이템
+aso.options.tools.dump.items=아이템
+aso.options.tools.dump.block=블럭
+aso.options.tools.dump.blocks=블럭
+aso.options.tools.dump.potion=포션
+aso.options.tools.dump.potions=포션
+aso.options.tools.dump.aso.enchantment=인첸트
+aso.options.tools.dump.aso.enchantments=인첸트
+aso.options.tools.dump.biome=바이옴
+aso.options.tools.dump.biomes=바이옴
+aso.options.tools.dump.itempanel=아이템 패널
+aso.options.tools.dump.itempanel.dumped=아이템 패널이 %s로 덤프되었습니다
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+
+layoutstyle.minecraft=마인크래프트
+layoutstyle.oldtmi=투매니 아이템
+
+aso.recipe.page=%s/%s 페이지
+aso.recipe.shaped=무형 조합법
+aso.recipe.shapeless=유형 조합법
+aso.recipe.furnace=굽기
+aso.recipe.fuel=연료
+aso.recipe.fuel.required=%s 개
+aso.recipe.fuel.processed=%s 개
+aso.recipe.fuel.produced=%s 개
+aso.recipe.firework=폭죽
+aso.recipe.firework.tooltip0=염료는 색상을 추가시킵니다.
+aso.recipe.firework.tooltip1=색깔을 변경할 수 있음
+aso.recipe.firework.tooltip2=여러개를 색깔을 가진 하나의 로켓을 스폰시킬수 있음
+aso.recipe.brewing=양조
+aso.recipe.profiler.crafting=프로파일제작
+aso.recipe.profiler.usage=사용 프로파일
+
+aso.itemsort.minecraft=마인크래프트
+aso.itemsort.minecraft.tip=바닐라 마인크래프트의 아이템을 맨위에 표시
+aso.itemsort.mod=모드
+aso.itemsort.mod.tip=모드이름순 분류
+aso.itemsort.id=아이템 id
+aso.itemsort.default=기본
+aso.itemsort.default.tip=변경 되지않은 아이템들의 순서를 변경
+aso.itemsort.damage=아이템 데미지
+aso.itemsort.name=표시이름

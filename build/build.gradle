@@ -81,8 +81,8 @@ processResources {
 
 version = "${project.minecraft.version}-${project.version}"
 def commonManifest = {
-    attributes 'FMLCorePlugin': 'codechicken.nei.asm.NEICorePlugin'
-    attributes 'FMLAT': 'nei_at.cfg'
+    attributes 'FMLCorePlugin': 'codechicken.aso.asm.ASOCorePlugin'
+    attributes 'FMLAT': 'aso_at.cfg'
 }
 
 jar {

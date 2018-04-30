@@ -1,0 +1,183 @@
+aso.load=Yükle
+aso.save=Kaydet
+
+aso.enchant=Büyü
+aso.enchant.level=Level
+aso.enchant.locked=Kilitli
+aso.enchant.unlocked=Açık
+
+aso.inventory.options=Ayarlar
+aso.inventory.prev=Geri
+aso.inventory.next=İleri
+aso.inventory.item_subsets=Item Altkümeleri
+aso.inventory.delete.inv=Mevcut envanterdeki tüm itemleri sil
+aso.inventory.delete.one=Sil %s
+aso.inventory.delete.all=Hepsini Sil %s
+aso.inventory.delete.enable=Silme modunu aktif et
+aso.inventory.delete.1=Silme modunu aç
+aso.inventory.delete.0=Silme modunu kapat
+aso.inventory.rain.enable=Yağmuru Aktif Et
+aso.inventory.rain.1=Yağmur yağdır
+aso.inventory.rain.0=Yağmuru durdur
+aso.inventory.magnet.enable=Mıknatısı aktif et
+aso.inventory.magnet.1=Mıknatısı aç
+aso.inventory.magnet.0=Mıknatısı kapat
+aso.inventory.dawn.enable=Sabah-Öğle aktif et
+aso.inventory.dawn.set=Sabah yap
+aso.inventory.noon.enable=Öğlen-akşam aktif et
+aso.inventory.noon.set=Öğlen yap
+aso.inventory.dusk.enable=Akşam-Gece aktif et
+aso.inventory.dusk.set=Akşam yap
+aso.inventory.midnight.enable=Gece-Sabah aktif et
+aso.inventory.midnight.set=Gece yarısı yap
+aso.inventory.heal=Canı Doldur
+aso.inventory.gamemode.0= Oyun Modunu Hayatta Kalma yap
+aso.inventory.gamemode.1= Oyun Modunu Yaratıcı yap
+aso.inventory.gamemode.2= Oyun Modunu Yaratıcı+ yap
+aso.inventory.gamemode.3= Oyun Modunu Macera yap
+
+aso.chat.gamemode.0=Hayatta Kalma modunu oynuyorsunuz
+aso.chat.gamemode.1=Yaratıcı modunu oynuyorsunuz
+aso.chat.gamemode.2=Yaratıcı+ modunu oynuyorsunuz
+aso.chat.gamemode.3=Macera modunu oynuyorsunuz
+aso.chat.rain.on=Yağmur açıldı
+aso.chat.rain.off=Yağmur kapatıldı
+aso.chat.time=Gün %d. %d:00
+aso.chat.give.noitem=İtem verilemez.
+
+aso.options=ASO Ayarları
+aso.options.back=Geri
+aso.options.world=Dünya
+aso.options.global=Genel
+aso.options.global.tip.0=Ayarlar tüm dünyalar için kaydedilecek
+aso.options.global.tip.1=W tuşuna tıklayın:seçeneği aç:dünyada gör
+aso.options.wbutton.tip.0=Genel ayarları kullanıyorsunuz
+aso.options.wbutton.tip.1=Genel ayarların üstüne yazılıyor
+
+aso.options.keys=Tuşlar
+aso.options.keys.gui=Envanter
+aso.options.keys.gui.recipe=Tarifler
+aso.options.keys.gui.usage=Kullanım yeri
+aso.options.keys.gui.enchant=Büylüler
+aso.options.keys.gui.potion=İksirler
+aso.options.keys.gui.back=Önceki tarif
+aso.options.keys.gui.prev=Önceki sayfa
+aso.options.keys.gui.next=Sonraki sayfa
+aso.options.keys.gui.hide=Nei görünürlük ayarı
+aso.options.keys.gui.search=Arama çubuğu odağı
+aso.options.keys.world=Dünya
+aso.options.keys.world.chunkoverlay=Chunk sınır yerleşimi
+aso.options.keys.world.moboverlay=Mob Spawn yerleşimi
+aso.options.keys.world.highlight_tips=Nesne ipucu
+aso.options.keys.world.dawn=Sabah
+aso.options.keys.world.noon=Öğlen
+aso.options.keys.world.dusk=Akşam
+aso.options.keys.world.midnight=Gece
+aso.options.keys.world.rain=Yağmur
+aso.options.keys.world.heal=Can
+aso.options.keys.world.creative=Oyun Modu
+aso.options.keys.world.creative.tip=Döngülü Oyun Modu
+
+aso.options.inventory=Envarter
+aso.options.inventory.widgetsenabled.true=ASO Açık
+aso.options.inventory.widgetsenabled.false=ASO Kapalı
+aso.options.inventory.cheatmode.0=Tarif modu
+aso.options.inventory.cheatmode.1=Yardımcı mod
+aso.options.inventory.cheatmode.2=Hileli mod
+aso.options.inventory.layoutstyle=Tema
+aso.options.inventory.profileRecipes=Profil tarifleri
+aso.options.inventory.profileRecipes.true=Yazı
+aso.options.inventory.profileRecipes.false=Şekil
+aso.options.inventory.itemsort=Item Panel Sıralaması
+aso.options.inventory.itemIDs=Item IDleri
+aso.options.inventory.itemIDs.0=Gizli
+aso.options.inventory.itemIDs.1=Otomatik
+aso.options.inventory.itemIDs.2=Göster
+aso.options.inventory.searchmode=Arama Modu
+aso.options.inventory.searchmode.0=Normal
+aso.options.inventory.searchmode.1=Gelişmiş
+aso.options.inventory.searchmode.2=Regex
+aso.options.inventory.utilities=Yardımcılar
+aso.options.inventory.utilities.tip=Yardımcıları seç
+aso.options.inventory.utilities.time=Saat
+aso.options.inventory.utilities.rain=Yağmur
+aso.options.inventory.utilities.heal=Can
+aso.options.inventory.utilities.delete=Sil
+aso.options.inventory.utilities.magnet=Mıknatıs
+aso.options.inventory.utilities.gamemode=Oyun modu
+aso.options.inventory.utilities.enchant=Büyüleme
+aso.options.inventory.utilities.potion=İksirler
+aso.options.inventory.utilities.item=Itemler
+aso.options.inventory.gamemodes=Oyun modu
+aso.options.inventory.gamemodes.tip=Oyun modunu döngülü yap
+aso.options.inventory.gamemodes.creative=Yaratıcı mod
+aso.options.inventory.gamemodes.creative+=Yaratıcı mod+
+aso.options.inventory.gamemodes.adventure=Macera
+
+aso.options.command=Komutlar
+aso.options.command.creative=Oyun modu
+aso.options.command.creative.tip={0} = 1 for creative, 0 for survival, {1} = player
+aso.options.command.item=Item
+aso.options.command.item.tip={0} = player, {1} = itemID, {2} = quantity, {3} = itemDamage
+aso.options.command.time=Zaman
+aso.options.command.time.tip={0} = worldtime
+aso.options.command.rain=Yağmur
+aso.options.command.rain.tip={0} = 1 for on, 0 for off
+aso.options.command.heal=Can
+aso.options.command.heal.tip={0} = player
+
+aso.options.world.highlight_tips=Nesne ipucu
+aso.options.world.highlight_tips.hide=Kapalı
+aso.options.world.highlight_tips.show=Açık
+
+aso.options.tools=Araçlar
+aso.options.tools.dump=Verileri Silme
+aso.options.tools.dump.dump=Sil
+aso.options.tools.dump.dumped=%s IDs silindi %s
+aso.options.tools.dump.mode.0=Kullanıldı
+aso.options.tools.dump.mode.1=Boş
+aso.options.tools.dump.mode.2=Hepsi
+aso.options.tools.dump.item=İtem
+aso.options.tools.dump.items=İtemlar
+aso.options.tools.dump.block=Blok
+aso.options.tools.dump.blocks=Bloklar
+aso.options.tools.dump.potion=İksir
+aso.options.tools.dump.potions=İksirler
+aso.options.tools.dump.enchantment=Büyü
+aso.options.tools.dump.enchantments=Büyüler
+aso.options.tools.dump.biome=Biyom
+aso.options.tools.dump.biomes=Biyomlar
+aso.options.tools.dump.itempanel=Item Paneli
+aso.options.tools.dump.itempanel.dumped=Item panelinden %s kadar silindi
+aso.options.tools.dump.itempanel.mode.0=CSV
+aso.options.tools.dump.itempanel.mode.1=NBT
+aso.options.tools.dump.itempanel.mode.2=Json
+
+aso.layoutstyle.minecraft=Minecraft
+aso.layoutstyle.oldtmi=Eski TMI
+
+aso.recipe.page=Sayfa %s/%s
+aso.recipe.shaped=Üretim
+aso.recipe.shapeless=Üretim
+aso.recipe.furnace=Pişirme
+aso.recipe.fuel=Yakıt
+aso.recipe.fuel.required=%s gerekli
+aso.recipe.fuel.processed=%s işlenmiş
+aso.recipe.fuel.produced=%s üretilmiş
+aso.recipe.firework=Havaifişek
+aso.recipe.firework.tooltip0=Renk ekle veya değiştir
+aso.recipe.firework.tooltip1=Rengi kaldır veya değiştir
+aso.recipe.firework.tooltip2=Fazlaca roket yap veya ışınla
+aso.recipe.brewing=İksir Standı
+aso.recipe.profiler.crafting=Üretme Profili
+aso.recipe.profiler.usage=Kullanma Profili
+
+aso.itemsort.minecraft=Minecraft
+aso.itemsort.minecraft.tip=Numara sırasına göre sırala
+aso.itemsort.mod=Mod
+aso.itemsort.mod.tip=İlk önce modlar gözükür
+aso.itemsort.id=Item Numarası
+aso.itemsort.default=Standart
+aso.itemsort.default.tip=Numara sırasına göre sırala
+aso.itemsort.damage=Item Hasarı
+aso.itemsort.name=Gözüken Ad
