@@ -27,7 +27,7 @@ public class NEIModContainer extends DummyModContainer
     public static LinkedList<IConfigureNEI> plugins = new LinkedList<IConfigureNEI>();
 
     public NEIModContainer() {
-        super(MetadataCollection.from(MetadataCollection.class.getResourceAsStream("/neimod.info"), "NotEnoughItems").getMetadataForId("NotEnoughItems", null));
+        super(MetadataCollection.from(MetadataCollection.class.getResourceAsStream("/neimod.info"), "AutoSlot").getMetadataForId("AutoSlot", null));
         loadMetadata();
     }
 

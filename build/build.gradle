@@ -26,7 +26,7 @@ repositories {
 apply plugin: 'forge'
 
 group = "codechicken" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "NotEnoughItems"
+archivesBaseName = "AutoSlot"
 
 // Define properties file
 ext.configFile = file "build.properties"

@@ -15,7 +15,7 @@ public class NEICorePlugin implements IFMLLoadingPlugin, IFMLCallHook
 
     @Override
     public String[] getASMTransformerClass() {
-        CodeChickenCorePlugin.versionCheck(CodeChickenCorePlugin.mcVersion, "NotEnoughItems");
+        CodeChickenCorePlugin.versionCheck(CodeChickenCorePlugin.mcVersion, "AutoSlot");
         return new String[]{"codechicken.nei.asm.NEITransformer"};
     }
 

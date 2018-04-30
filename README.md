@@ -1,4 +1,4 @@
-NotEnoughItems
+AutoSlot
 ==============
 
 THIS PROJECT IS RETIRED: See [here] for the current repo.
@@ -13,4 +13,4 @@ Join us on IRC:
 - Server: Esper.net
 - Channel: #ChickenBones
 
-[here]: <https://github.com/TheCBProject/NotEnoughItems>
+[here]: <https://github.com/Starojitski/AutoSlot>

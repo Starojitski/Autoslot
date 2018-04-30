@@ -103,7 +103,7 @@ public class ClientHandler
     public static void init() {
         instance = new ClientHandler();
 
-        GuiModListScroll.register("NotEnoughItems");
+        GuiModListScroll.register("AutoSlot");
         PacketCustom.assignHandler(NEICPH.channel, new NEICPH());
         FMLCommonHandler.instance().bus().register(instance);
         MinecraftForge.EVENT_BUS.register(instance);
